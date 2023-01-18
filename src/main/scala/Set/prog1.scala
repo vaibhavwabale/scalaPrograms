@@ -1,4 +1,4 @@
-package set
+package Set
 
 /* 1. Write a program to create two sets and find common elements between them.  */
 

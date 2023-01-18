@@ -1,4 +1,4 @@
-package set
+package Set
 
 /* 2. Write a program to display largest and smallest element of the Set */
 

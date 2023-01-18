@@ -24,6 +24,7 @@ object prog5 {
       println("\n")
     }
 
+
     println("Ascending sorted matrix : ")
     var temp = 0
     for (i <- 0 until r) {

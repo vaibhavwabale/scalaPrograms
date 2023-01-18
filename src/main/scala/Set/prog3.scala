@@ -1,4 +1,4 @@
-package set
+package Set
 
 /* Write a program to merge two sets and calculate product and average of all elements of the Set */
 

@@ -1,4 +1,4 @@
-package map
+package Map
 
 /* 2. Write a program to create map with Roll No and FirstName. Print all student information with same FirstName. */
 
