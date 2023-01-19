@@ -1,4 +1,4 @@
-package Map
+package MapPrograms
 
 /* 1. Write a user defined functions to convert lowercase letter to uppercase and call the function using Map */
 
